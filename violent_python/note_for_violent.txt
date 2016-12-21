@@ -1,0 +1,63 @@
+learn python from violent-pythons
+
+env: http://pypi.python.org/pypi
+# easy_install python-nmap	# but it can't install bluetooth and so on;
+backtracklinux
+
+string
+string.upper()
+string.lower()
+string.replace('xxx','xx')
+string.find('xxx')	# return the a[i].i;
+str()			# change it to string to can output it with other strings
+
+list
+list.append(xx)	# variable[0] = xx;
+list.sort()
+list.index(xx)	# xx is one of list[i];
+list.remove(443)
+len(list)
+
+dictionary	# anything include keys,items
+dictionary.keys()
+dictionary.items()
+dictionary.has_key('xxx')	# Frue or False
+dictionary['xxx']	# return xxx.items
+
+network			# socket
+import socket
+socket.setdefaulttimeout(2)
+s = socket.socket()
+s.connect(("192.168.95.148",21))
+ans = s.recv(1024)
+
+selection	# if
+if (xxx):
+   xxxx
+elif (xxx):
+   xxxx
+else:
+   xxxx
+
+deception	# try/except
+# as 1/s, maybe s = 0, and you don't know when.
+try:
+	xxx
+except:
+	xxx
+
+function	# reuse
+def main():
+    xxx
+
+iteration	# for x in x:
+for x in x:
+    xx
+[21,22,25,80,110,443]
+telnet,SSH,smtp,http,imap,https
+
+file I/O
+
+SYS
+
+OS

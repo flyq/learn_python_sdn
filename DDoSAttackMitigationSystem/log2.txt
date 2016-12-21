@@ -1,0 +1,813 @@
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.672000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.672000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.672000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.336000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 1.008000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.336000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.336000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.336000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.672000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.168000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.168000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 1.008000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.336000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s22 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:01 Out Port        2 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0b:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s21 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        2 Eth Dst 0a:0b:0b:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:01 Out Port        1 Bitrate 0.000000
+In Port        3 Eth Dst 0a:0b:0a:00:00:02 Out Port        2 Bitrate 0.000000
+--------------------------------------------------------
+-------------- Flow stats for switch s2 ---------------
+In Port        1 Eth Dst 0a:0a:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0a:00:00:00:02 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:01 Out Port        3 Bitrate 0.000000
+In Port        1 Eth Dst 0a:0b:00:00:00:02 Out Port        3 Bitrate 0.00
